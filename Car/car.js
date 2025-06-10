@@ -1,0 +1,14 @@
+const carName = "BMV";
+let maxCarSpeed = "200 км/ч";
+maxCarSpeed_ = "250 км/ч";
+let carOwner = "Вася";
+carOwner_ = "Иван";
+console.log(carName);
+alert("200 км/ч");
+console.log(maxCarSpeed);
+alert("Вася");
+console.log(carOwner);
+alert("250 км/ч");
+console.log('У машины изьенилась скорость', maxCarSpeed_);
+alert("Иван");
+console.log('У машины изменился владелец', carOwner_);
